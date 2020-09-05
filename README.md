@@ -11,3 +11,5 @@ be free run with
 ./name of the tool
 
 before a chmod + x *
+
+QUERO AGRADECER A MEUS AMIGOS > KODA , LEKE JOESTAR , HISTORIAS , UNK . entre outros nao listados ....
